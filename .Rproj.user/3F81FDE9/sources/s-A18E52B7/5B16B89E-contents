@@ -1,0 +1,21 @@
+# install package
+install.packages("randomizeR")
+
+# load package
+library(randomizeR)
+# to get more info on the package
+?randomizeR
+
+N <- 80
+K <- 2
+groups <- c("Ttt 1", "Ttt 2")
+
+param <- rarPar(N, K, ratio =, groups = groups)
+
+genSeq(par)
+
+R
+
+getRandList(R)
+
+?rarPar
