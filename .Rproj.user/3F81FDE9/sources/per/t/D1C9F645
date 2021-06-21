@@ -1,0 +1,28 @@
+{
+    "id": "D1C9F645",
+    "path": "~/RCT course/Script2.R",
+    "project_path": "Script2.R",
+    "type": "r_source",
+    "hash": "2212715329",
+    "contents": "",
+    "dirty": false,
+    "created": 1623851476995.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "27,27",
+        "scrollLine": "0",
+        "ignored_words": "dataset\n"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1623759510,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1623759510,
+    "read_only": false,
+    "read_only_alternatives": []
+}
